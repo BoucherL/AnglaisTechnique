@@ -1,0 +1,33 @@
+/*css page CV*/
+h1 {            /*title*/
+    color: #333638fa;
+    font-size: 30px;
+    text-decoration: underline;
+    margin-left: 5%;
+ }
+ td {
+     padding: 10px;
+ }
+div.center {
+    text-align: center;
+}
+ .margin {
+     text-align: left;
+     font-size: 18px;
+     margin-left: 2%;
+ }
+ h2 {
+     margin-left: 3%;
+ }
+ div.menu{     /*m for personnal information*/
+     background-color: rgb(201, 201, 201);
+     border: 3px ridge rgb(0, 0, 0);
+ }
+ body{
+     height: 100vh;
+ }
+div.bmenu {     /*principal information*/
+    float:middle;
+    background-color: rgb(236, 236, 236);
+    border: 3px ridge rgb(0, 0, 0)
+}
